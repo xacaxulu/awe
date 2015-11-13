@@ -1,0 +1,4 @@
+com/mkyong/pages/GoogleSearchResultsPage.class
+com/mkyong/pages/SamplePageFactory.class
+com/mkyong/pages/GoogleHomePage.class
+com/mkyong/suites/SampleSuiteITest.class
